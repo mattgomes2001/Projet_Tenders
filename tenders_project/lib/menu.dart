@@ -1,8 +1,7 @@
 // menu.dart
 
 import 'package:flutter/material.dart';
-import 'frigo.dart';
-import "main.dart";
+import "dataclass.dart";
 class MenuPage extends StatefulWidget {
   @override
   _MenuPageState createState() => _MenuPageState();
