@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'menu.dart';
-import 'frigo.dart';
+//import 'frigo.dart';
 import 'dataclass.dart';
 // main.dart
 
@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       initialRoute: '/',
       routes: {
         '/': (context) => MenuPage(),
-        '/foodList': (context) => FoodListPage(),
+        //'/foodList': (context) => FoodListPage(),
       },
     );
   }
